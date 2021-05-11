@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/coding-interview/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicons/favicon_notebook.ico',
   organizationName: 'tianhaoz95-notebooks',
   projectName: 'coding-interview',
   themeConfig: {
@@ -14,7 +14,7 @@ module.exports = {
       title: 'Coding Interview Notebook',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logos/logo_code.png',
       },
       items: [
         {
