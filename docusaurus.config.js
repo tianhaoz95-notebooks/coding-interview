@@ -19,9 +19,15 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'solutions/index',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Solutions',
+        },
+        {
+          type: 'doc',
+          docId: 'tricks/index',
+          position: 'left',
+          label: 'Tricks',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
