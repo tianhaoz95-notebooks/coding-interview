@@ -2,16 +2,16 @@
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://tianhaoz95-notebooks.github.io/coding-interview',
+  baseUrl: '/coding-interview/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tianhaoz95-notebooks',
+  projectName: 'coding-interview',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Coding Interview Notebook',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
           label: 'GitHub',
           position: 'right',
         },
