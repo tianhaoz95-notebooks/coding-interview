@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Coding Interview Notebook',
+  tagline: 'Interesting notes from coding interview preparation',
   url: 'https://tianhaoz95-notebooks.github.io/coding-interview',
   baseUrl: '/coding-interview/',
   onBrokenLinks: 'throw',
@@ -13,7 +13,7 @@ module.exports = {
     navbar: {
       title: 'Coding Interview Notebook',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logos/logo_code.png',
       },
       items: [
@@ -38,7 +38,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Getting Started',
               to: '/docs/intro',
             },
           ],
@@ -48,15 +48,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
             },
           ],
         },
@@ -69,12 +69,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tianhao Zhou. Built with Docusaurus.`,
     },
   },
   presets: [
