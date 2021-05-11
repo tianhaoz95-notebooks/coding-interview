@@ -4,38 +4,41 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/branding/undraw_docusaurus_mountain.svg').default,
+    title: 'Easy to Navigate',
+    Svg: require('../../static/img/branding/easy_to_navigate.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This notebook aims to make it as effortless as possible
+        to navigate from question to solution to implementation.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/branding/undraw_docusaurus_tree.svg').default,
+    title: 'Progress First',
+    Svg: require('../../static/img/branding/best_effort_explanation.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This notebook put progress over solution meaning knowing
+        how to describe a solution is more important than writing
+        code.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/branding/undraw_docusaurus_react.svg').default,
+    title: 'Focus on Readability',
+    Svg: require('../../static/img/branding/focus_on_readability.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This notebook focuses on readbility over efficiency or
+        simplicity meaning that code that is less efficient
+        and longer will be still preferred as long as it's more
+        readable.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
