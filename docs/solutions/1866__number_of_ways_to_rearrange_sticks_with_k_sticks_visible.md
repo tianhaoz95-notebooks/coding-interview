@@ -1,5 +1,14 @@
 # 1866. Number of Ways to Rearrange Sticks With K Sticks Visible
 
+For `n=3, k=2`:
+
+|   🚀   | `j0`  |              `j1`               |               `j2`               |
+| :---: | :---: | :-----------------------------: | :------------------------------: |
+| `i0`  |  `0`  |               `0`               |               `0`                |
+| `i1`  |  `0`  |               `1`               | `dp(0,2) * (1-1) + dp(0, 1) = 0` |
+| `i2`  |  `0`  | `dp(1,1) * (2-1) + dp(1,0) = 1` | `dp(1,2) * (2-1) + dp(1,1) = 1`  |
+| `i3`  |  `0`  | `dp(2,1) * (3-1) + dp(2,0) = 2` | `dp(2,2) * (3-1) + dp(2,1) = 3`  |
+
 ```python
 class Solution:
     def rearrangeSticks(self, n: int, k: int) -> int:

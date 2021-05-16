@@ -29,7 +29,8 @@
 		"visualstudioexptteam.vscodeintellicode",
 		"ms-vscode.wordcount",
 		"redhat.vscode-yaml",
-		"ms-vsliveshare.vsliveshare-pack"
+		"ms-vsliveshare.vsliveshare-pack",
+		"yzhang.markdown-all-in-one"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
