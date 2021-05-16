@@ -17,7 +17,19 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"github.vscode-codeql",
+		"docsmsft.docs-markdown",
+		"github.vscode-pull-request-github",
+		"eamodio.gitlens",
+		"davidanson.vscode-markdownlint",
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"ms-vscode.vscode-typescript-tslint-plugin",
+		"visualstudioexptteam.vscodeintellicode",
+		"ms-vscode.wordcount",
+		"redhat.vscode-yaml",
+		"ms-vsliveshare.vsliveshare-pack"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

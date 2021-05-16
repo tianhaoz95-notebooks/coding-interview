@@ -3,4 +3,4 @@ title: Home
 sidebar_position: 1
 ---
 
-# Home
+This is an opinionated leetcode solution pack.
