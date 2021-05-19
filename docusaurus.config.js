@@ -81,12 +81,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/master/docs/',
+            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/master/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/master/blog/',
+            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
