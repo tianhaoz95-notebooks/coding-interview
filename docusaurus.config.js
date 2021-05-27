@@ -90,9 +90,7 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-        enableUpdateBy: true,
-        enableUpdateTime: true
+        }
       },
     ],
   ],
