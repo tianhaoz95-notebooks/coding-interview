@@ -81,20 +81,18 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/',
-          enableUpdateBy: true,
-          enableUpdateTime: true
+            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/'
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/',
-          enableUpdateBy: true,
-          enableUpdateTime: true
+            'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        enableUpdateBy: true,
+        enableUpdateTime: true
       },
     ],
   ],
