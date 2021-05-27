@@ -9,8 +9,6 @@ module.exports = {
   favicon: 'img/favicons/favicon_notebook.ico',
   organizationName: 'tianhaoz95-notebooks',
   projectName: 'coding-interview',
-  enableUpdateBy: true,
-  enableUpdateTime: true,
   themeConfig: {
     navbar: {
       title: 'Coding Interview Notebook',
@@ -84,11 +82,15 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/',
+          enableUpdateBy: true,
+          enableUpdateTime: true
         },
         blog: {
           showReadingTime: true,
           editUrl:
             'https://github.com/tianhaoz95-notebooks/coding-interview/edit/main/',
+          enableUpdateBy: true,
+          enableUpdateTime: true
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
