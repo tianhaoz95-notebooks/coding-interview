@@ -37,6 +37,11 @@ module.exports = {
           label: 'About',
         },
         {
+          href: 'https://github.com/tianhaoz95-notebooks/coding-interview/new/main/docs/solutions',
+          label: '🎉Add Soltuon🎉',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
           label: 'GitHub',
           position: 'right',
