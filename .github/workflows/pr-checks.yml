@@ -1,5 +1,7 @@
-name: Dependency Update Checks
-on: pull_request_target
+name: PR Checks
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize, labeled]
 jobs:
   build-test:
     runs-on: ubuntu-latest
