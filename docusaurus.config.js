@@ -29,7 +29,13 @@ module.exports = {
           position: 'left',
           label: 'Tricks',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          type: 'doc',
+          docId: 'about/index',
+          position: 'left',
+          label: 'About',
+        },
         {
           href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
           label: 'GitHub',
@@ -44,16 +50,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
-            },
-            {
-              label: 'Discord',
-              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
+              label: 'Medium',
+              href: 'https://tianhaozhou.medium.com/',
             },
             {
               label: 'Twitter',
-              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
+              href: 'https://twitter.com/TheSWE2',
             },
           ],
         },
@@ -63,10 +65,6 @@ module.exports = {
             {
               label: 'Blog',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
             },
           ],
         },

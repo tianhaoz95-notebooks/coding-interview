@@ -14,13 +14,14 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Progress First',
+    title: 'Process First',
     Svg: require('../../static/img/branding/best_effort_explanation.svg').default,
     description: (
       <>
-        This notebook put progress over solution meaning knowing
-        how to describe a solution is more important than writing
-        code.
+        This notebook puts the process of solving the problems over
+        solutions themselves since the ability to make progress in
+        under-defined environments is more important than memorizing
+        implementations.
       </>
     ),
   },
