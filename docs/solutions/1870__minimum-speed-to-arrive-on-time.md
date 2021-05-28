@@ -1,6 +1,10 @@
 # 1870. Minimum Speed to Arrive on Time
 
-This problem is a binary search.
+We can visaulize the problem with the following graph:
+
+![convert problem to graph](/img/solutions/1870/convert_problem_to_graph.png)
+
+At this point, we can say that this is a binary search problem.
 
 ```python
 from math import ceil
