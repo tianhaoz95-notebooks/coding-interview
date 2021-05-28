@@ -43,7 +43,7 @@ module.exports = {
         },
         {
           href: 'https://github.com/tianhaoz95-notebooks/coding-interview',
-          label: 'GitHub',
+          label: 'GitHub🍨',
           position: 'right',
         },
       ],
