@@ -1,0 +1,1 @@
+(self.webpackChunkcoding_interview=self.webpackChunkcoding_interview||[]).push([[755],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome (WIP)","permalink":"/coding-interview/blog/welcome"}]}')}}]);

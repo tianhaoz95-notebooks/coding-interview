@@ -1,1 +1,0 @@
-(self.webpackChunkcoding_interview=self.webpackChunkcoding_interview||[]).push([[166],{2584:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/coding-interview/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/coding-interview/blog/tags/hello"}')}}]);
