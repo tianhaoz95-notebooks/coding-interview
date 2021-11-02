@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Coding Interview Notebook',
   tagline: 'Interesting notes from coding interview preparation',
-  url: 'https://tianhaoz95-notebooks.github.io/coding-interview',
+  url: 'https://tianhaoz95-notebooks.github.io',
   baseUrl: '/coding-interview/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
