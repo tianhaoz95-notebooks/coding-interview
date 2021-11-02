@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Coding Interview Notebook Blog</title>
-        <link>https://tianhaoz95-notebooks.github.io/coding-interview/blog</link>
+        <link>https://tianhaoz95-notebooks.github.io/blog</link>
         <description>Coding Interview Notebook Blog</description>
         <lastBuildDate>Thu, 27 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome (WIP)]]></title>
-            <link>https://tianhaoz95-notebooks.github.io/coding-interview/coding-interview/blog/welcome</link>
+            <link>https://tianhaoz95-notebooks.github.io/coding-interview/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi all! Welcome to my notebook for coding interviews.]]></description>
