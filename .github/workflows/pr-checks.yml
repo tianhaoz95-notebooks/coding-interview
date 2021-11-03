@@ -10,4 +10,5 @@ jobs:
       - uses: actions/setup-node@v2.4.1
         with:
           node-version: "14"
-      - run: npm install && npm run build
+      - run: npm install
+      - run: npm run build
