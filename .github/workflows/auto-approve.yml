@@ -1,4 +1,4 @@
-name: PR Checks
+name: Auto Approve
 on:
   pull_request_target:
     types: [opened, reopened, synchronize, labeled]
