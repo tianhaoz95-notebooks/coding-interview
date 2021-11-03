@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tianhaoz95-notebooks.github.io/blog</id>
+    <id>https://tianhaoz95-notebooks.github.io/coding-interview/blog</id>
     <title>Coding Interview Notebook Blog</title>
     <updated>2021-05-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tianhaoz95-notebooks.github.io/blog"/>
+    <link rel="alternate" href="https://tianhaoz95-notebooks.github.io/coding-interview/blog"/>
     <subtitle>Coding Interview Notebook Blog</subtitle>
-    <icon>https://tianhaoz95-notebooks.github.io/img/favicons/favicon_notebook.ico</icon>
+    <icon>https://tianhaoz95-notebooks.github.io/coding-interview/img/favicons/favicon_notebook.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome (WIP)]]></title>
         <id>welcome</id>
         <link href="https://tianhaoz95-notebooks.github.io/coding-interview/blog/welcome"/>
         <updated>2021-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi all! Welcome to my notebook for coding interviews.]]></summary>
+        <content type="html"><![CDATA[<p>Hi all! Welcome to my notebook for coding interviews.</p><p>I created this notebook to note down the good-to-knows from participating in the weekly LeetCode competitions.</p><p>There are many repositories, websites and YouTube videos for LeetCode solutions or tutorials.</p><p>This notebook is slightly different in that it&#x27;s more opionionated towards what makes a better software engineer instead of a better interviewee.</p><p>You should be prepared to disagree with some of my views or implementations.</p><p>In general, this notebook focuses more on:</p><ul><li>The process of navigating through under-defined situations with only the basics instead of taking advantage of any higher level templates.</li><li>Readability of the code instead of performance as long as the complexity is the same.</li></ul><p>This notebook consist of 3 parts:</p><ul><li>LeetCode solutions.</li><li>Coding interview tips.</li><li>Blogs.</li></ul>]]></content>
+        <author>
+            <name>Tianhao Zhou</name>
+            <uri>https://github.com/tianhaoz95</uri>
+        </author>
     </entry>
 </feed>
