@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Coding Interview Notebook Blog</title>
-        <link>https://tianhaoz95-notebooks.github.io/blog</link>
+        <link>https://tianhaoz95-notebooks.github.io/coding-interview/blog</link>
         <description>Coding Interview Notebook Blog</description>
         <lastBuildDate>Thu, 27 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -13,6 +13,7 @@
             <guid>welcome</guid>
             <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi all! Welcome to my notebook for coding interviews.]]></description>
+            <content:encoded><![CDATA[<p>Hi all! Welcome to my notebook for coding interviews.</p><p>I created this notebook to note down the good-to-knows from participating in the weekly LeetCode competitions.</p><p>There are many repositories, websites and YouTube videos for LeetCode solutions or tutorials.</p><p>This notebook is slightly different in that it&#x27;s more opionionated towards what makes a better software engineer instead of a better interviewee.</p><p>You should be prepared to disagree with some of my views or implementations.</p><p>In general, this notebook focuses more on:</p><ul><li>The process of navigating through under-defined situations with only the basics instead of taking advantage of any higher level templates.</li><li>Readability of the code instead of performance as long as the complexity is the same.</li></ul><p>This notebook consist of 3 parts:</p><ul><li>LeetCode solutions.</li><li>Coding interview tips.</li><li>Blogs.</li></ul>]]></content:encoded>
         </item>
     </channel>
 </rss>
