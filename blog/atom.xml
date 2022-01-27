@@ -13,10 +13,11 @@
         <link href="https://tianhaoz95-notebooks.github.io/coding-interview/blog/welcome"/>
         <updated>2021-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi all! Welcome to my notebook for coding interviews.]]></summary>
-        <content type="html"><![CDATA[<p>Hi all! Welcome to my notebook for coding interviews.</p><p>I created this notebook to note down the good-to-knows from participating in the weekly LeetCode competitions.</p><p>There are many repositories, websites and YouTube videos for LeetCode solutions or tutorials.</p><p>This notebook is slightly different in that it&#x27;s more opionionated towards what makes a better software engineer instead of a better interviewee.</p><p>You should be prepared to disagree with some of my views or implementations.</p><p>In general, this notebook focuses more on:</p><ul><li>The process of navigating through under-defined situations with only the basics instead of taking advantage of any higher level templates.</li><li>Readability of the code instead of performance as long as the complexity is the same.</li></ul><p>This notebook consist of 3 parts:</p><ul><li>LeetCode solutions.</li><li>Coding interview tips.</li><li>Blogs.</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>Hi all! Welcome to my notebook for coding interviews.</p><p>I created this notebook to note down the good-to-knows from participating in the weekly LeetCode competitions.</p><p>There are many repositories, websites and YouTube videos for LeetCode solutions or tutorials.</p><p>This notebook is slightly different in that it's more opionionated towards what makes a better software engineer instead of a better interviewee.</p><p>You should be prepared to disagree with some of my views or implementations.</p><p>In general, this notebook focuses more on:</p><ul><li>The process of navigating through under-defined situations with only the basics instead of taking advantage of any higher level templates.</li><li>Readability of the code instead of performance as long as the complexity is the same.</li></ul><p>This notebook consist of 3 parts:</p><ul><li>LeetCode solutions.</li><li>Coding interview tips.</li><li>Blogs.</li></ul>]]></content>
         <author>
             <name>Tianhao Zhou</name>
             <uri>https://github.com/tianhaoz95</uri>
         </author>
+        <category label="intro" term="intro"/>
     </entry>
 </feed>
